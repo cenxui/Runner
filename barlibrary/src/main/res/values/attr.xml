@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChartBarView"
+
+        ></declare-styleable>
+    <declare-styleable name="ChartBarGroupView"
+
+        ></declare-styleable>
+    <declare-styleable name="ChartCircleCakeView"
+        ></declare-styleable>
+    <declare-styleable name="ChartTireView">
+
+    </declare-styleable>
+
+</resources>
